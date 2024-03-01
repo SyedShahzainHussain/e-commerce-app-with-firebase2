@@ -1,0 +1,5 @@
+const publishedKey =
+    "pk_test_51Mo3uiEnuRiokwlGQS5kfJc2mvTRFZ7IwxIeOG7h8q0Y1lvnsqUVG7YJkl4G0CYRs7f4yxRK0h8ugJOLe1pzsBUe00GmQksZLk";
+
+const secretkey =
+    "sk_test_51Mo3uiEnuRiokwlGZDqvdpU0h3JvuWc55fCY34G9FrGIswgYfy6vY3HV2ldaomGlZT0jjLmF0ytpE6YUW7jC28Xs00CGv9SMc9";
